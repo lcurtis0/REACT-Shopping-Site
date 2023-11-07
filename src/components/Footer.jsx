@@ -1,7 +1,7 @@
 
 function Footer() {
     return (
-      <div className="lineUp">
+      <div>
         <ul>
 
         </ul>
