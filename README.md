@@ -2,13 +2,13 @@
 
 # Description
 
-This files are created to complete the Module 21 challenge-21
+This files are created to complete the Module 22 challenge-22
 
-The goal of this app is to browse and record books to profile. 
+The goal of this app is to 
 
-This is so that to it easy to have a history of the books seen before and can be used for e-commerce projects. 📐✂🔎
+This is so that 
 
-I learned that Grpahql along with Apollo is really easy tool to visualize and explain data that otherwise would be abstract and confusing. I also learned that Express routes can be used as middleware between the client and server folders.
+I learned that 
 
 Table of Contents
 - [Description](#Decription)
