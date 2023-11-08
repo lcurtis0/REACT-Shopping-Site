@@ -1,0 +1,11 @@
+
+
+1. Make a photo model
+
+2. Make sure photos are in User model
+
+3. Embedded documents / sub documents
+
+Weeek 18/ act 8/ act 18
+
+
