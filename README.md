@@ -41,9 +41,9 @@ N/A
 # Deployment
 Evaluated environment url: https://lcurtis0.github.io/REACT-Shopping-Site/
 
-Netlify deployment:
+Netlify deployment: https://marvelous-bublanina-626062.netlify.app
 
-Netlify site: 
+Netlify site: https://app.netlify.com/sites/marvelous-bublanina-626062/overview
 
 Badges
 N/A
