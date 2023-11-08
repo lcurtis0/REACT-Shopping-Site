@@ -2,13 +2,13 @@
 
 # Description
 
-This files are created to complete the Module 21 challenge-21
+This files are created to complete the Module 22 challenge-22
 
-The goal of this app is to browse and record books to profile. 
+The goal of this app is to see the selection of good in different varities 
 
-This is so that to it easy to have a history of the books seen before and can be used for e-commerce projects. 📐✂🔎
+This is so that items being looked at can be stored
 
-I learned that Grpahql along with Apollo is really easy tool to visualize and explain data that otherwise would be abstract and confusing. I also learned that Express routes can be used as middleware between the client and server folders.
+I learned that React is universal many different tools both for front end and back end. 
 
 Table of Contents
 - [Description](#Decription)
@@ -28,7 +28,7 @@ npm build to make dist folder
 
 Users have to run "npm run develop" to activate package.jsons 
 
-![alttext](./client/src/assets/Screenshot%20(259).png)
+![alttext](./client/src/assets/Screenshot.png)
 
 # Credits
 
@@ -39,7 +39,7 @@ N/A
 '![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)'
 
 # Deployment
-Evaluated environment url:  
+Evaluated environment url: https://lcurtis0.github.io/REACT-Shopping-Site/
 
 Netlify deployment:
 
