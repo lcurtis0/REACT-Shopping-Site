@@ -1,0 +1,28 @@
+
+{
+    "name": "shopping",
+    "version": "1.0.0",
+    "description": "",
+    "engines": {
+      "node": "18"
+    },
+    "main": "server/server.js",
+    "scripts": {
+      "start": "node server/server.js --ignore client",
+      "dev": "concurrently -n client,server \"cd client && npm run dev\" \"cd server && npm run dev\"",
+      "install": "cd server && npm i && cd ../client && npm i",
+      "seed": "node server/utils/seed.js",
+      "lint": "eslint .",
+      "build": "cd client && npm run build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "concurrently": "^8.2.2"
+    },
+    "dependencies": {
+      "eslint-config-wesbos": "^3.2.3"
+    }
+  }
+  
